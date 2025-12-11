@@ -1,0 +1,28 @@
+Restaurant Order Calculator Prototype
+
+This is the Step 2 Prototype for my CIS 2085 Java Final Project.
+The prototype demonstrates:
+
+Menu stored using arrays
+
+Ordering loop with validation
+
+Quantity collection
+
+Subtotal calculation using a method
+
+Basic formatted order summary
+
+This version does not yet include tax, discount, or tip.
+Those will be added in Step 3 (Final Implementation).
+
+How to Run
+
+Open in NetBeans → Run Project
+Requires Java 8+.
+
+Student
+
+Tinotenda Sithole
+College of St. Scholastica
+Fall 2025 — Programming I With Java
