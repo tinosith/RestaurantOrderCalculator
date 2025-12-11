@@ -1,0 +1,49 @@
+#############################
+# NetBeans / Java Project   #
+#############################
+
+# NetBeans private config files
+nbproject/private/
+nbproject/private/*
+
+# Build output (generated automatically)
+build/
+build/*
+dist/
+dist/*
+
+# Compiled class files
+*.class
+
+# Backup files created by NetBeans or the OS
+*.orig
+*.bak
+*~
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NetBeans specific caches
+nbproject/private/private.properties
+nbproject/private/config.properties
+
+##########################
+# General Java ignores   #
+##########################
+
+# Generated files
+*.war
+*.ear
+*.jar
+*.zip
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
